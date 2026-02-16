@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_variant">#4F46E5</color>
+    <color name="secondary">#8B5CF6</color>
+    <color name="secondary_variant">#7C3AED</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#F8FAFC</color>
+    <color name="background_dark">#0F172A</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E293B</color>
+    
+    <!-- Status colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_primary_dark">#F1F5F9</color>
+    <color name="text_secondary_dark">#94A3B8</color>
+    
+    <!-- Chart colors -->
+    <color name="chart_tcp">#3B82F6</color>
+    <color name="chart_udp">#8B5CF6</color>
+    <color name="chart_icmp">#10B981</color>
+    <color name="chart_other">#64748B</color>
+    
+    <!-- Common -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

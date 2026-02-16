@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SwishNet</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="loading">Loading...</string>
+    <string name="error_connection">Unable to connect to IPS server</string>
+    <string name="retry">Retry</string>
+    <string name="refresh">Refresh</string>
+    
+    <!-- Stats -->
+    <string name="total_packets">Total Packets</string>
+    <string name="packets_analyzed">Analyzed</string>
+    <string name="packets_dropped">Dropped</string>
+    <string name="threats_blocked">Threats Blocked</string>
+    
+    <!-- Protocol -->
+    <string name="protocol_breakdown">Protocol Breakdown</string>
+    <string name="tcp">TCP</string>
+    <string name="udp">UDP</string>
+    <string name="icmp">ICMP</string>
+    <string name="other">Other</string>
+    
+    <!-- System Info -->
+    <string name="system_info">System Information</string>
+    <string name="uptime">Uptime</string>
+    <string name="data_processed">Data Processed</string>
+    <string name="drop_rate">Drop Rate</string>
+    
+    <!-- Threats -->
+    <string name="recent_threats">Recent Threats</string>
+    <string name="no_threats">No threats detected</string>
+</resources>
